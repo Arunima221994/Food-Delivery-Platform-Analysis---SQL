@@ -61,7 +61,6 @@ where rn<=3
 group by category
 
 
-
 4.	What are the weekwise top 3 categories basis the ordering value for the last 4 weeks in a month
 
 with order_date as 
